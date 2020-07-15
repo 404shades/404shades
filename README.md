@@ -1,4 +1,5 @@
 ### Hi there 👋
+![404shades github stats](https://github-readme-stats.vercel.app/api?username=404shades&show_icons=true&bg_color=191919&title_color=ffffff&icon_color=bb2acf&text_color=ffffff)
 
 <!--
 **404shades/404shades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
