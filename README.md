@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=404shades&color=brightgreen)
 
 <p align="left">
   
